@@ -1,10 +1,18 @@
 # Rivan Ssenkula
 
-Software Engineer based in Kampala, Uganda. Focus on mobile & web application development, backend systems, and database architecture using Dart/Flutter, TypeScript, Python (Django), and JavaScript.
+Software Engineer & Full-Stack Developer based in Kampala, Uganda. Specialized in custom software development, mobile & web application engineering, bug fixing, backend architecture, and database optimization using Dart/Flutter, TypeScript, Python (Django), and JavaScript.
 
 - Email: ssenkularivan@gmail.com
 - LinkedIn: https://linkedin.com/in/ssenkula-rivan-7918b6305
 - GitHub: https://github.com/ssenkula-rivan
+
+---
+
+## Engineering Services & Focus Areas
+
+- **Software Engineering & Custom Development:** Building scalable web applications, backend APIs, and cross-platform mobile apps.
+- **Software Debugging & System Maintenance:** Refactoring codebases, performance optimization, database tuning, and bug fixing.
+- **Backend Architecture & Database Design:** PostgreSQL, SQLite, RESTful API design, and cloud deployments on Vercel/Linux.
 
 ---
 
