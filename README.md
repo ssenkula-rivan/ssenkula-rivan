@@ -58,13 +58,6 @@ Commercial applications and client systems (including custom business portals an
 
 ---
 
-## Activity Metrics
-
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=ssenkula-rivan&show_icons=true&theme=flat&hide_border=true)
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ssenkula-rivan&layout=compact&theme=flat&hide_border=true)
-
----
-
 ## Contact
 
 - **Email:** ssenkularivan@gmail.com
