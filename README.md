@@ -17,18 +17,27 @@ Software Engineer based in Kampala, Uganda. Focus on mobile & web application de
 
 ---
 
-## Featured Projects
+## Commercial Projects & Case Studies
 
-### Transport Phaneroo
-Mobile and web transport management application built with Flutter and Dart.
-- Repository: https://github.com/ssenkula-rivan/transport-phaneroo
-- Key Tech: Dart, Flutter, REST API
+### Phaneroo Mobile Platform & Backend Services
+Client application and high-throughput backend infrastructure. Built with Flutter, TypeScript, Node.js, and deployed on Vercel.
+- Live Backend Service: https://phaneroo-backend.vercel.app
+- Architecture: Flutter Cross-Platform Client, Node.js REST API, Vercel Edge Serverless
+- Source Code: Private / Proprietary Client Repository
 
-### Phaneroo Backend API
-Backend service powering the Phaneroo platform deployed on Vercel.
-- Repository: https://github.com/ssenkula-rivan/phaneroo-backend
-- Live Deployment: https://phaneroo-backend.vercel.app
-- Key Tech: TypeScript, Node.js, Vercel
+### QCL Ltd Enterprise Portal
+Corporate digital platform and client management portal for QCL Ltd.
+- Architecture: Responsive Frontend Architecture, Web API Integration
+- Source Code: Private / Proprietary Client Repository
+
+### Cranictech Real Estate & Commercial Applications
+Enterprise web systems and client solutions developed under Cranictech.
+- Tech Stack: JavaScript, Python, PHP, Custom Database Architecture
+- Source Code: Private / Proprietary Client Repository
+
+---
+
+## Open Source & Public Showcase
 
 ### Workplace Management System
 Web application for managing employee records, task assignments, and internal operations. Built with Django and PostgreSQL.
@@ -39,6 +48,11 @@ Web application for managing employee records, task assignments, and internal op
 Automation script and web interface for gathering data and processing marketing workflow tasks.
 - Repository: https://github.com/ssenkula-rivan/shanell-marketing-Agent
 - Key Tech: Python, Web APIs, HTML/CSS
+
+### Shoni Application
+Modular utility service built for handling data tasks and local operations.
+- Repository: https://github.com/ssenkula-rivan/shoni
+- Key Tech: Python, JavaScript
 
 ---
 
