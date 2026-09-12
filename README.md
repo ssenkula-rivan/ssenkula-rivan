@@ -25,14 +25,14 @@ Web application developed for workforce task management, employee administrative
 - **Tech Stack:** Python 3, Django, PostgreSQL, JavaScript, Bootstrap
 - **Source Code:** https://github.com/ssenkula-rivan/workplace-management-system
 
-### Phaneroo Mobile Platform & Backend API
-Cross-platform mobile application and supporting REST API backend service for event transport coordination.
+### THE ICT HUB Platform (theicthub.ug)
+Mobile and web platform developed for digital ICT service delivery, client portals, and educational training programs.
 
-- **Problem Solved:** Automated transport booking and schedule management for community event transportation.
-- **Architecture & Deployment:** Flutter cross-platform mobile client connected to a serverless Node.js / TypeScript REST API deployed on Vercel.
-- **System Scope:** Transport scheduling endpoints, user registration flow, request validation, and production API deployment.
-- **Tech Stack:** Dart, Flutter, TypeScript, Node.js, Express, Vercel
-- **Live API Endpoint:** https://phaneroo-backend.vercel.app
+- **Problem Solved:** Centralized ICT service requests, digital learning resources, and user administration into a unified platform.
+- **Architecture & Design:** Cross-Platform mobile and web application interfacing with RESTful API endpoints for user authentication and service workflows.
+- **System Scope:** User registration portal, service directory, course tracking modules, and REST API integrations.
+- **Tech Stack:** Dart, Flutter, JavaScript, HTML5/CSS3, REST API
+- **Platform Domain:** https://theicthub.ug
 
 ### Shanell Marketing Automation Tool
 Python utility for automated data extraction and task scheduling.
