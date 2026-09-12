@@ -54,11 +54,16 @@ Modular utility service built for handling data tasks and local operations.
 - Repository: https://github.com/ssenkula-rivan/shoni
 - Key Tech: Python, JavaScript
 
+### School Management System
+Educational administration system for student tracking, course management, and grading.
+- Repository: https://github.com/ssenkula-rivan/school
+- Key Tech: Python, Django, Database Architecture
+
 ---
 
-## Activity
+## Activity Metrics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ssenkula-rivan&show_icons=true&theme=flat&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ssenkula-rivan&show_icons=true&theme=flat&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssenkula-rivan&layout=compact&theme=flat&hide_border=true)
 
 ---
