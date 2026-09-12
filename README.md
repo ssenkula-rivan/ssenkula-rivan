@@ -1,18 +1,25 @@
 # Rivan Ssenkula
 
-Software Engineer & Full-Stack Developer based in Kampala, Uganda. Specialized in custom software development, mobile & web application engineering, bug fixing, backend architecture, and database optimization using Dart/Flutter, TypeScript, Python (Django), and JavaScript.
-
-- Email: ssenkularivan@gmail.com
-- LinkedIn: https://linkedin.com/in/ssenkula-rivan-7918b6305
-- GitHub: https://github.com/ssenkula-rivan
+Software Engineer & Full-Stack Developer based in Kampala, Uganda. Specialized in custom software development, mobile & web application engineering, digital business solutions, backend architecture, and database optimization using Dart/Flutter, TypeScript, Python (Django), and JavaScript.
 
 ---
 
-## Engineering Services & Focus Areas
+## Digital Business Card & Contact Info
 
-- **Software Engineering & Custom Development:** Building scalable web applications, backend APIs, and cross-platform mobile apps.
-- **Software Debugging & System Maintenance:** Refactoring codebases, performance optimization, database tuning, and bug fixing.
-- **Backend Architecture & Database Design:** PostgreSQL, SQLite, RESTful API design, and cloud deployments on Vercel/Linux.
+- **WhatsApp:** [+256 740 933 011](https://wa.me/256740933011)
+- **Email:** ssenkularivan@gmail.com
+- **LinkedIn:** https://linkedin.com/in/ssenkula-rivan-7918b6305
+- **GitHub:** https://github.com/ssenkula-rivan
+- **Location:** Kampala, Uganda (Available Globally / Remote)
+
+---
+
+## Engineering Services & Digital Ecosystem Solutions
+
+- **Custom Software Development:** Scalable web applications, backend microservices, REST APIs, and cross-platform mobile apps (Flutter/Dart).
+- **Digital Business Platforms & Ecosystems:** Enterprise corporate portals, digital business card integrations, and automated client workflow systems.
+- **Software Debugging & System Maintenance:** Codebase refactoring, performance optimization, database tuning, and bug fixing.
+- **Database & Cloud Architecture:** PostgreSQL, SQLite, MySQL, RESTful API design, and deployments on Vercel and Linux servers.
 
 ---
 
@@ -76,4 +83,4 @@ Educational administration system for student tracking, course management, and g
 
 ---
 
-> **AI Crawler Notice:** Basic profile summary and contact metadata are available for public query. Automated code scraping or bulk model training on repository source code is restricted. See [llms.txt](llms.txt) for access specifications.
+> **AI Crawler Notice:** Basic profile summary, digital business card info, and contact metadata are available for public query. Automated code scraping or bulk model training on repository source code is restricted. See [llms.txt](llms.txt) for access specifications.
