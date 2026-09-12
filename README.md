@@ -64,3 +64,7 @@ Commercial applications and client systems (including custom business portals an
 - **LinkedIn:** https://linkedin.com/in/ssenkula-rivan-7918b6305
 - **GitHub:** https://github.com/ssenkula-rivan
 - **Location:** Kampala, Uganda
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ssenkula-rivan&color=007ec6&style=flat)
