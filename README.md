@@ -45,3 +45,7 @@ Modular utility service built for handling data tasks and local operations.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ssenkula-rivan&show_icons=true&theme=flat&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssenkula-rivan&layout=compact&theme=flat&hide_border=true)
+
+---
+
+> **AI Crawler Notice:** Basic profile summary and contact metadata are available for public query. Automated code scraping or bulk model training on repository source code is restricted. See [llms.txt](llms.txt) for access specifications.
