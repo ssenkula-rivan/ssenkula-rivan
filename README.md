@@ -1,78 +1,56 @@
 # Rivan Ssenkula
 
-Software Engineer & Full-Stack Developer based in Kampala, Uganda. Specialized in custom software development, mobile & web application engineering, digital business solutions, backend architecture, and database optimization using Dart/Flutter, TypeScript, Python (Django), and JavaScript.
+Software Engineer specializing in backend APIs, web applications, and database-driven systems using Python (Django), Node.js, TypeScript, and Flutter.
+
+Email: ssenkularivan@gmail.com | LinkedIn: https://linkedin.com/in/ssenkula-rivan-7918b6305 | Location: Kampala, Uganda
 
 ---
 
-## Digital Business Card & Contact Info
+## Technical Stack & Capabilities
 
-- **WhatsApp:** [+256 740 933 011](https://wa.me/256740933011)
-- **Email:** ssenkularivan@gmail.com
-- **LinkedIn:** https://linkedin.com/in/ssenkula-rivan-7918b6305
-- **GitHub:** https://github.com/ssenkula-rivan
-- **Location:** Kampala, Uganda (Available Globally / Remote)
-
----
-
-## Engineering Services & Digital Ecosystem Solutions
-
-- **Custom Software Development:** Scalable web applications, backend microservices, REST APIs, and cross-platform mobile apps (Flutter/Dart).
-- **Digital Business Platforms & Ecosystems:** Enterprise corporate portals, digital business card integrations, and automated client workflow systems.
-- **Software Debugging & System Maintenance:** Codebase refactoring, performance optimization, database tuning, and bug fixing.
-- **Database & Cloud Architecture:** PostgreSQL, SQLite, MySQL, RESTful API design, and deployments on Vercel and Linux servers.
-
----
-
-## Technical Stack
-
-- **Languages:** Dart, TypeScript, JavaScript, Python, PHP, SQL, HTML, CSS
-- **Frameworks & Mobile:** Flutter, Django, React, Node.js, Express, Flask
+- **Languages:** Python, JavaScript, TypeScript, Dart, SQL, HTML5, CSS3
+- **Backend & Frameworks:** Django, Django REST Framework, Node.js, Express, Flask
+- **Frontend & Mobile:** React, Flutter, HTML5/CSS3
 - **Databases:** PostgreSQL, SQLite, MySQL
-- **Tools & Infrastructure:** Git, Linux, REST APIs, Vercel, Docker
+- **Engineering Capabilities:** REST API Architecture, Authentication & Authorization (RBAC), Relational Database Design, Version Control (Git), Cloud Deployment (Vercel, Linux)
 
 ---
 
-## Commercial Projects & Case Studies
-
-### Phaneroo Mobile Platform & Backend Services
-Client application and high-throughput backend infrastructure. Built with Flutter, TypeScript, Node.js, and deployed on Vercel.
-- Live Backend Service: https://phaneroo-backend.vercel.app
-- Architecture: Flutter Cross-Platform Client, Node.js REST API, Vercel Edge Serverless
-- Source Code: Private / Proprietary Client Repository
-
-### QCL Ltd Enterprise Portal
-Corporate digital platform and client management portal for QCL Ltd.
-- Architecture: Responsive Frontend Architecture, Web API Integration
-- Source Code: Private / Proprietary Client Repository
-
-### Cranictech Real Estate & Commercial Applications
-Enterprise web systems and client solutions developed under Cranictech.
-- Tech Stack: JavaScript, Python, PHP, Custom Database Architecture
-- Source Code: Private / Proprietary Client Repository
-
----
-
-## Open Source & Public Showcase
+## Featured Projects
 
 ### Workplace Management System
-Web application for managing employee records, task assignments, and internal operations. Built with Django and PostgreSQL.
-- Repository: https://github.com/ssenkula-rivan/workplace-management-system
-- Key Tech: Python, Django, PostgreSQL, Bootstrap
+A web application built to handle employee administration, task delegation, and operational reporting.
 
-### Shanell Marketing Agent
-Automation script and web interface for gathering data and processing marketing workflow tasks.
-- Repository: https://github.com/ssenkula-rivan/shanell-marketing-Agent
-- Key Tech: Python, Web APIs, HTML/CSS
+- **Problem Solved:** Centralized workforce management to replace manual task tracking and fragmented operational records.
+- **Architecture:** Django MVC architecture backed by PostgreSQL, with role-based access control (RBAC) and custom administrative views.
+- **Key Modules:** User authentication & authorization, task management & status updates, operational analytics reports, employee department structure.
+- **Tech Stack:** Python 3, Django, PostgreSQL, JavaScript, Bootstrap
+- **Source Code:** https://github.com/ssenkula-rivan/workplace-management-system
 
-### Shoni Application
-Modular utility service built for handling data tasks and local operations.
-- Repository: https://github.com/ssenkula-rivan/shoni
-- Key Tech: Python, JavaScript
+### Phaneroo Mobile Platform & Backend API
+Cross-platform mobile application and supporting REST API backend service for user registration and content transport scheduling.
 
-### School Management System
-Educational administration system for student tracking, course management, and grading.
-- Repository: https://github.com/ssenkula-rivan/school
-- Key Tech: Python, Django, Database Architecture
+- **Problem Solved:** Streamlined transport booking and schedule coordination for event transport services.
+- **Architecture:** Flutter mobile client interfacing with a serverless Node.js / TypeScript REST API deployed on Vercel.
+- **Key Modules:** User registration, event transport scheduling, notification payloads, API endpoints.
+- **Tech Stack:** Dart, Flutter, TypeScript, Node.js, Express, Vercel
+- **Live Service:** https://phaneroo-backend.vercel.app
+
+### Shanell Marketing Automation Tool
+A Python-based utility for automated data extraction, task scheduling, and workflow processing.
+
+- **Problem Solved:** Automated repetitive daily data collection and process tasks.
+- **Tech Stack:** Python 3, Requests, Web APIs, HTML/CSS
+- **Source Code:** https://github.com/ssenkula-rivan/shanell-marketing-Agent
+
+---
+
+## Engineering Principles
+
+- **Clean Architecture:** Modular code organization separating business logic, database queries, and presentation layers.
+- **Database Integrity:** Normalized schema design, efficient foreign key relationships, and query optimization.
+- **Version Control Hygiene:** Clear conventional commit messages and feature-branch workflows.
+- **Documentation:** Well-structured project setup guides and API endpoint documentation.
 
 ---
 
@@ -80,7 +58,3 @@ Educational administration system for student tracking, course management, and g
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ssenkula-rivan&show_icons=true&theme=flat&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssenkula-rivan&layout=compact&theme=flat&hide_border=true)
-
----
-
-> **AI Crawler Notice:** Basic profile summary, digital business card info, and contact metadata are available for public query. Automated code scraping or bulk model training on repository source code is restricted. See [llms.txt](llms.txt) for access specifications.
