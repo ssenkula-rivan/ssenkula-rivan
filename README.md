@@ -1,6 +1,6 @@
 # Rivan Ssenkula
 
-Software Engineer based in Kampala, Uganda. Focus on backend systems, full-stack web development, and database architecture using Python, Django, and JavaScript.
+Software Engineer based in Kampala, Uganda. Focus on mobile & web application development, backend systems, and database architecture using Dart/Flutter, TypeScript, Python (Django), and JavaScript.
 
 - Email: ssenkularivan@gmail.com
 - LinkedIn: https://linkedin.com/in/ssenkula-rivan-7918b6305
@@ -10,34 +10,35 @@ Software Engineer based in Kampala, Uganda. Focus on backend systems, full-stack
 
 ## Technical Stack
 
-- **Languages:** Python, JavaScript, SQL, HTML, CSS
-- **Frameworks:** Django, Flask, React, Node.js, Express
+- **Languages:** Dart, TypeScript, JavaScript, Python, PHP, SQL, HTML, CSS
+- **Frameworks & Mobile:** Flutter, Django, React, Node.js, Express, Flask
 - **Databases:** PostgreSQL, SQLite, MySQL
-- **Tools & Infrastructure:** Git, Linux, REST APIs, Docker
+- **Tools & Infrastructure:** Git, Linux, REST APIs, Vercel, Docker
 
 ---
 
-## Projects
+## Featured Projects
+
+### Transport Phaneroo
+Mobile and web transport management application built with Flutter and Dart.
+- Repository: https://github.com/ssenkula-rivan/transport-phaneroo
+- Key Tech: Dart, Flutter, REST API
+
+### Phaneroo Backend API
+Backend service powering the Phaneroo platform deployed on Vercel.
+- Repository: https://github.com/ssenkula-rivan/phaneroo-backend
+- Live Deployment: https://phaneroo-backend.vercel.app
+- Key Tech: TypeScript, Node.js, Vercel
 
 ### Workplace Management System
 Web application for managing employee records, task assignments, and internal operations. Built with Django and PostgreSQL.
 - Repository: https://github.com/ssenkula-rivan/workplace-management-system
-- Key Tech: Python, Django, PostgreSQL, Bootstrap, REST API
+- Key Tech: Python, Django, PostgreSQL, Bootstrap
 
 ### Shanell Marketing Agent
 Automation script and web interface for gathering data and processing marketing workflow tasks.
 - Repository: https://github.com/ssenkula-rivan/shanell-marketing-Agent
 - Key Tech: Python, Web APIs, HTML/CSS
-
-### QCL-LTD Web Platform
-Web application developed for QCL Ltd to manage online client interactions and business services.
-- Repository: https://github.com/ssenkula-rivan/QCL-LTD.UG
-- Key Tech: JavaScript, HTML5, CSS3
-
-### Shoni Application
-Modular utility service built for handling data tasks and local operations.
-- Repository: https://github.com/ssenkula-rivan/shoni
-- Key Tech: Python, JavaScript
 
 ---
 
