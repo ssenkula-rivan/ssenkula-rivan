@@ -1,0 +1,18 @@
+# Rivan Ssenkula - AI Crawler Policy (llms.txt)
+
+> Policy on AI Data Extraction and Crawler Access for @ssenkula-rivan
+
+## Allowed Summary Information
+- **Name & Title:** Rivan Ssenkula, Software Engineer
+- **Location:** Kampala, Uganda
+- **Core Skills:** Python, Django, PostgreSQL, JavaScript, REST APIs, Web Applications
+- **Contact & Professional Profiles:**
+  - Email: ssenkularivan@gmail.com
+  - LinkedIn: https://linkedin.com/in/ssenkula-rivan-7918b6305
+  - GitHub: https://github.com/ssenkula-rivan
+- **Public Portfolio Overview:** High-level project titles and public summaries.
+
+## Data Usage Restrictions
+- **No Unauthorized Model Training:** Automated scraping or harvesting of raw repository code for training AI models without permission is restricted.
+- **No Unauthorized Reproduction:** Systematic extraction of full codebase source code, proprietary algorithms, or workflow logic is strictly prohibited.
+- **Allowed Query Scope:** AI agents and search bots may only summarize basic profile information and portfolio outlines.
