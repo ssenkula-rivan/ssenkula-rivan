@@ -1,8 +1,6 @@
 # Rivan Ssenkula
 
-Software Engineer specializing in backend APIs, web applications, and database-driven systems using Python (Django), Node.js, TypeScript, and Flutter.
-
-Email: ssenkularivan@gmail.com | LinkedIn: https://linkedin.com/in/ssenkula-rivan-7918b6305 | Location: Kampala, Uganda
+Software Engineer focused on backend API development, relational database design, and cross-platform mobile applications.
 
 ---
 
@@ -10,51 +8,66 @@ Email: ssenkularivan@gmail.com | LinkedIn: https://linkedin.com/in/ssenkula-riva
 
 - **Languages:** Python, JavaScript, TypeScript, Dart, SQL, HTML5, CSS3
 - **Backend & Frameworks:** Django, Django REST Framework, Node.js, Express, Flask
-- **Frontend & Mobile:** React, Flutter, HTML5/CSS3
+- **Frontend & Mobile:** Flutter, React, HTML5/CSS3
 - **Databases:** PostgreSQL, SQLite, MySQL
-- **Engineering Capabilities:** REST API Architecture, Authentication & Authorization (RBAC), Relational Database Design, Version Control (Git), Cloud Deployment (Vercel, Linux)
+- **Engineering Capabilities:** REST API Design, Role-Based Access Control (RBAC), Relational Database Schema Design, Input Validation, Unit & Integration Testing, Version Control (Git), Cloud Deployment (Vercel, Linux)
 
 ---
 
 ## Featured Projects
 
 ### Workplace Management System
-A web application built to handle employee administration, task delegation, and operational reporting.
+Web application developed for workforce task management, employee administrative tracking, and operational reporting.
 
-- **Problem Solved:** Centralized workforce management to replace manual task tracking and fragmented operational records.
-- **Architecture:** Django MVC architecture backed by PostgreSQL, with role-based access control (RBAC) and custom administrative views.
-- **Key Modules:** User authentication & authorization, task management & status updates, operational analytics reports, employee department structure.
+- **Problem Solved:** Replaced manual operational records with a structured database system for task assignments and department tracking.
+- **Architecture & Design:** Django MTV (Model–Template–View) architecture connected to PostgreSQL. Implements RBAC permissions for admin and staff roles.
+- **System Scope:** 4 core administrative modules, 8+ relational database tables, input validation, and Django TestCase unit verification.
 - **Tech Stack:** Python 3, Django, PostgreSQL, JavaScript, Bootstrap
 - **Source Code:** https://github.com/ssenkula-rivan/workplace-management-system
 
 ### Phaneroo Mobile Platform & Backend API
-Cross-platform mobile application and supporting REST API backend service for user registration and content transport scheduling.
+Cross-platform mobile application and supporting REST API backend service for event transport coordination.
 
-- **Problem Solved:** Streamlined transport booking and schedule coordination for event transport services.
-- **Architecture:** Flutter mobile client interfacing with a serverless Node.js / TypeScript REST API deployed on Vercel.
-- **Key Modules:** User registration, event transport scheduling, notification payloads, API endpoints.
+- **Problem Solved:** Automated transport booking and schedule management for community event transportation.
+- **Architecture & Deployment:** Flutter cross-platform mobile client connected to a serverless Node.js / TypeScript REST API deployed on Vercel.
+- **System Scope:** Transport scheduling endpoints, user registration flow, request validation, and production API deployment.
 - **Tech Stack:** Dart, Flutter, TypeScript, Node.js, Express, Vercel
-- **Live Service:** https://phaneroo-backend.vercel.app
+- **Live API Endpoint:** https://phaneroo-backend.vercel.app
 
 ### Shanell Marketing Automation Tool
-A Python-based utility for automated data extraction, task scheduling, and workflow processing.
+Python utility for automated data extraction and task scheduling.
 
-- **Problem Solved:** Automated repetitive daily data collection and process tasks.
+- **Problem Solved:** Automated repetitive daily data collection tasks.
 - **Tech Stack:** Python 3, Requests, Web APIs, HTML/CSS
 - **Source Code:** https://github.com/ssenkula-rivan/shanell-marketing-Agent
 
 ---
 
-## Engineering Principles
+## Proprietary & Client Work
 
-- **Clean Architecture:** Modular code organization separating business logic, database queries, and presentation layers.
-- **Database Integrity:** Normalized schema design, efficient foreign key relationships, and query optimization.
-- **Version Control Hygiene:** Clear conventional commit messages and feature-branch workflows.
-- **Documentation:** Well-structured project setup guides and API endpoint documentation.
+Commercial applications and client systems (including custom business portals and production backend integrations) are maintained in private repositories under non-disclosure and client ownership agreements.
+
+---
+
+## Engineering Practices
+
+- **Modular Code Structure:** Organizing application logic by feature domain to separate data models, API endpoints, and template rendering.
+- **Database Schema Normalization:** Designing relational database structures with explicit primary/foreign keys and constraint validation.
+- **Security & Authorization:** Implementing role-based permissions, request sanitization, and environment variable configuration for sensitive credentials.
+- **Testing & Verification:** Writing unit test cases and verifying API endpoints before deployment.
 
 ---
 
 ## Activity Metrics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ssenkula-rivan&show_icons=true&theme=flat&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ssenkula-rivan&show_icons=true&theme=flat&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssenkula-rivan&layout=compact&theme=flat&hide_border=true)
+
+---
+
+## Contact
+
+- **Email:** ssenkularivan@gmail.com
+- **LinkedIn:** https://linkedin.com/in/ssenkula-rivan-7918b6305
+- **GitHub:** https://github.com/ssenkula-rivan
+- **Location:** Kampala, Uganda
